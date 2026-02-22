@@ -1,0 +1,19 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+
+# R stuff
+.Rhistory
+.RData
+.Ruserdata
+
+# Data files (Don't upload massive CSVs/Excel)
+*.csv
+*.xlsx
+*.sqlite
+
+# IDE settings
+.vscode/
+.Rproj.user/
